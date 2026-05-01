@@ -29,6 +29,7 @@ Características principales:
     - [Instalar librerías adicionales](#instalar-librerías-adicionales)
     - [Gestionar de secretos](#gestionar-de-secretos)
     - [Usar secretos en el notebook](#usar-secretos-en-el-notebook)
+  - [Versionado](#versionado)
   - [Autores](#autores)
 
 ## Pre-Requisitos
@@ -136,12 +137,13 @@ Pasos a seguir:
 from google.colab import userdata
 
 userdata.get('SECRET_NAME')
-````
+```
 
 Para ello se incopora una librería de Google Collab llamada "userdata" que permite acceder a los secretos creados en la cuenta de Google
 
 Posteriormente, se accedería a través del nombre del secreto mediante el método "get" y se podría utilizar su valor para lo que se necesite (por ejemplo, para autenticarse en una API)
 
+## Versionado
 
 **Nota :** [SemVer](http://semver.org/) es utilizado por el versionado
 
