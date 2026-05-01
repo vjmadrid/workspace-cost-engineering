@@ -1,4 +1,4 @@
-# Crear API Key de OpenAI
+# 00-01 Crear API Key de OpenAI
 
 ## Objetivo
 
@@ -6,7 +6,7 @@ Crear un API Key desde OpenAI para poder utilizar sus servicios desde código
 
 ## Índice
 
-- [Crear API Key de OpenAI](#crear-api-key-de-openai)
+- [00-01 Crear API Key de OpenAI](#00-01-crear-api-key-de-openai)
   - [Objetivo](#objetivo)
   - [Índice](#índice)
   - [Requisitos previos](#requisitos-previos)

@@ -1,4 +1,4 @@
-# Crear API Key de Anthropic
+# 00-02 Crear API Key de Anthropic
 
 ## Objetivo
 
@@ -6,7 +6,7 @@ Crear un API Key desde Anthropic para poder utilizar sus servicios desde código
 
 ## Índice
 
-- [Crear API Key de Anthropic](#crear-api-key-de-anthropic)
+- [00-02 Crear API Key de Anthropic](#00-02-crear-api-key-de-anthropic)
   - [Objetivo](#objetivo)
   - [Índice](#índice)
   - [Requisitos previos](#requisitos-previos)
