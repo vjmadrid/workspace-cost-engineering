@@ -7,11 +7,19 @@ Espacio de trabajo para empezar a capacitar a la gente en el área de Cost Engin
 
 * Cuenta de Google Personal o Corporativa
 
+## Instalación
+
+N/A
+
 ## Configuración
+
+N/A
+
+## Uso
 
 ### Google Collab
 
-
+Acceder a la documentación: [Documentación Google Collab](https://github.com/vjmadrid/workspace-cost-engineering/blob/main/docs/google-collab.md)
 
 ## Versionado
 
