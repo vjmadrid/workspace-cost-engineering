@@ -13,7 +13,7 @@ Crear un API Key desde OpenAI para poder utilizar sus servicios desde código
   - [Estimación de tiempo](#estimación-de-tiempo)
   - [Instrucciones](#instrucciones)
     - [Paso 1: Crea una cuenta en OpenAI Platform](#paso-1-crea-una-cuenta-en-openai-platform)
-    - [Paso 2: Añadir creditos](#paso-2-añadir-creditos)
+    - [Paso 2: Añadir créditos](#paso-2-añadir-créditos)
     - [Paso 3: Crear un API Key](#paso-3-crear-un-api-key)
   - [Versionado](#versionado)
   - [Autores](#autores)
@@ -32,7 +32,7 @@ Tiempo estimado en complentarse: 5-10 minutos
 
 Seguir los pasos indicados en la documentación facilitada
 
-### Paso 2: Añadir creditos
+### Paso 2: Añadir créditos
 
 Seguir los pasos indicados en la documentación facilitada
 
