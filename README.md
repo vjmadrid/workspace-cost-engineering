@@ -6,6 +6,7 @@ Espacio de trabajo para empezar a capacitar a la gente en el área de Cost Engin
 ## Pre-Requisitos
 
 * Cuenta activa en OpenAI Platform, con créditos y con un API Key generada
+* Cuenta activa en Anthropic Console, con créditos y con un API Key generada
 * Cuenta de Google Personal o Corporativa
 
 ## Instalación
