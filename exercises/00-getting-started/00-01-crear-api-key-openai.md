@@ -30,19 +30,21 @@ Tiempo estimado en complentarse: 5-10 minutos
 
 ### Paso 1: Crea una cuenta en OpenAI Platform
 
-Seguir los pasos indicados en la documentación facilitada
+Seguir los pasos indicados en la documentación facilitada en 'docs/openai.md'
 
 ### Paso 2: Añadir créditos
 
-Seguir los pasos indicados en la documentación facilitada
+Seguir los pasos indicados en la documentación facilitada en 'docs/openai.md'
 
 ### Paso 3: Crear un API Key
 
-Seguir los pasos indicados en la documentación facilitada
+Seguir los pasos indicados en la documentación facilitada en 'docs/openai.md'
 
 Una propuesta de nombre de la API Key podría ser: **OPENAI_API_KEY_LAB**
 
-**Importante**: Recurda guardar el valor del API Key generado, ya que lo necesitaremos para configurar los secretos los siguientes ejecicios
+Sería la API key que utilizariamos para la realización de este laboratorio, aunque puedes crear tantas como quieras, siempre y cuando las guardes para utilizarlas en los siguientes ejercicios
+
+**Importante**: Recuerda guardar el valor del API Key generado, ya que lo necesitaremos para configurar el secreto para la utilización en los siguientes ejercicios
 
 ## Versionado
 

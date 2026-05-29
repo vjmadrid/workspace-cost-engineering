@@ -15,6 +15,7 @@ Poder entender los costos asociados a la IA y cómo optimizarlos.
   - [Instalación](#instalación)
   - [Configuración](#configuración)
   - [Uso](#uso)
+    - [Documentación de referencia / apoyo](#documentación-de-referencia--apoyo)
     - [Ejercicios](#ejercicios)
   - [Versionado](#versionado)
   - [Autores](#autores)
@@ -39,9 +40,17 @@ N/A
 
 ## Uso
 
+### Documentación de referencia / apoyo
+
+Se ha habilitado una serie de documentos para ayudar a abordar los ejercicios propuestos o bien enseñar a utilizar herramientas / tecnologías que puedan ser utiles
+
+Se pueden consultar en el directorio `docs` o bien desde el índice de cada módulo
+
 ### Ejercicios
 
-Los ejercicios se encuentra organizados por módulos, y cada módulo a su vez por ejercicios individuales. Para cada ejercicio se indicará el objetivo, los requisitos previos, la estimación de tiempo para completarlo y las instrucciones detalladas para completarlo.
+Los conceptos se encuentran organizados por módulos y cada módulo a su vez por ejercicios.
+
+Para cada ejercicio se indicará el objetivo, los requisitos previos, la estimación de tiempo para completarlo y las instrucciones detalladas para completarlo.
 
 Se pueden acceder desde el directorio `exercises` o bien desde el índice de cada módulo
 
