@@ -17,6 +17,7 @@ Poder entender los costos asociados a la IA y cómo optimizarlos.
   - [Uso](#uso)
     - [Documentación de referencia / apoyo](#documentación-de-referencia--apoyo)
     - [Ejercicios](#ejercicios)
+    - [Simuladores](#simuladores)
   - [Versionado](#versionado)
   - [Autores](#autores)
 
@@ -53,6 +54,10 @@ Los conceptos se encuentran organizados por módulos y cada módulo a su vez por
 Para cada ejercicio se indicará el objetivo, los requisitos previos, la estimación de tiempo para completarlo y las instrucciones detalladas para completarlo.
 
 Se pueden acceder desde el directorio `exercises` o bien desde el índice de cada módulo
+
+### Simuladores
+
+Se facilitarán algunos simuladores para ayudar a entender mejor los conceptos y a practicar con ellos. Estos simuladores estarán disponibles en el directorio `simulators` o bien desde el índice de cada módulo.
 
 ## Versionado
 

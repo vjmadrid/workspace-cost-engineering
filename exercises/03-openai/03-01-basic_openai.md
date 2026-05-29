@@ -1,14 +1,14 @@
-# 02-01 token openai
+# 03-01 basic openai
 
 ## Objetivo
 
-El ejercicio esta pensado para ayudar a entender el concepto de token y cómo se cuentan los tokens en algunas plataformas. En este caso, nos centraremos en la plataforma de OpenAI ya que para facilitar las explicaciones se hará uso de la librería "tiktoken".
+Utilizar Google Collab para crear un código Python que conecte el API de un LLM y permite obtener una respuesta a una petición dada.
 
-"tiktoken" es  la librería oficial de OpenAI para el conteo de tokens y que es compatible con los modelos de OpenAI, por lo que nos permitirá entender mejor cómo se cuentan los tokens en esta plataforma y cómo afecta esto al coste de las llamadas a la API.
+El ejercicio esta pensado para trabajar con la API de OpenAI
 
 ## Índice
 
-- [02-01 token openai](#02-01-token-openai)
+- [03-01 basic openai](#03-01-basic-openai)
   - [Objetivo](#objetivo)
   - [Índice](#índice)
   - [Requisitos previos](#requisitos-previos)
@@ -18,7 +18,7 @@ El ejercicio esta pensado para ayudar a entender el concepto de token y cómo se
       - [Desde el fichero](#desde-el-fichero)
       - [Desde la URL del repositorio](#desde-la-url-del-repositorio)
     - [Paso 2: Verificar que se ha cargado la API Key de Anthropic en el entorno de Google Collab](#paso-2-verificar-que-se-ha-cargado-la-api-key-de-anthropic-en-el-entorno-de-google-collab)
-    - [Paso 3: Seguir la explicación del ejercicio en las secciones del notebook](#paso-3-seguir-la-explicación-del-ejercicio-en-las-secciones-del-notebook)
+    - [Paso 3: Seguir la explicación del ejercicio desde el notebook](#paso-3-seguir-la-explicación-del-ejercicio-desde-el-notebook)
   - [Versionado](#versionado)
   - [Autores](#autores)
 
@@ -26,10 +26,13 @@ El ejercicio esta pensado para ayudar a entender el concepto de token y cómo se
 
 * Cuenta de Google Personal o Corporativa
 * Acceso a Google Collab
+* Cuenta activa en OpenAI Platform, con créditos y con un API Key generada
+* Configuración del secreto de la API Key de OpenAI en Google Collab
+  * Se habrían realizado en el módulo 00-getting-started, pero si no se han realizado, se puede configurar en este ejercicio siguiendo las instrucciones del módulo 00-getting-started
 
 ## Estimación de tiempo
 
-Tiempo estimado en complentarse: 15-45 minutos
+Tiempo estimado en complentarse: 30-60 minutos
 
 ## Instrucciones
 
@@ -39,7 +42,7 @@ Tiempo estimado en complentarse: 15-45 minutos
 
 Pasos a seguir:
 
-* Localizar la ruta del fichero `02_01_token_openai_v1_0.ipynb` dentro del repositorio
+* Localizar la ruta del fichero `03_01_basic_openai_v1_0.ipynb` dentro del repositorio
 * Acceder a la plataforma de Google Collab
 * Cargar el notebook en Google Collab desde la ruta del fichero localizada
 * Verificar que el notebook se ha cargado correctamente y que se pueden ejecutar las celdas sin errores
@@ -49,11 +52,11 @@ Pasos a seguir:
 Pasos a seguir:
 
 * Acceder a la URL del fichero ".ipynb" en el repositorio de GitHub
-  * https://github.com/vjmadrid/workspace-cost-engineering/blob/main/exercises/02-token/02_01_token_openai_v1_0.ipynb
+  * https://github.com/vjmadrid/workspace-cost-engineering/blob/main/exercises/03-openai/03_01_basic_openai_v1_0.ipynb
 * Reemplazar "github.com" por "colab.research.google.com/github"
 
 ```
-https://colab.research.google.com/github/vjmadrid/workspace-cost-engineering/blob/main/exercises/02-token/02_01_token_openai_v1_0.ipynb
+https://colab.research.google.com/github/vjmadrid/workspace-cost-engineering/blob/main/exercises/03-openai/03_01_basic_openai_v1_0.ipynb
 ```
 
 * Acceder a la URL modificada
@@ -64,9 +67,16 @@ https://colab.research.google.com/github/vjmadrid/workspace-cost-engineering/blo
 
 Seguir los pasos indicados en la documentación facilitada en 'exercises/01-google-collab/01-01-prepare-google-collab.md'
 
-### Paso 3: Seguir la explicación del ejercicio en las secciones del notebook
+### Paso 3: Seguir la explicación del ejercicio desde el notebook
 
 Se irán alternando secciones de teoría en celdas de texto con celdas de código para ejecutar y probar lo explicado en cada sección. Se recomienda seguir el orden de las celdas para no perder el hilo de la explicación y para entender mejor el ejercicio.
+
+Hay que tener en cuenta que se harán uso de las SDKs oficiales de OpenAI, por lo que se recomienda revisar la documentación oficial para entender mejor su funcionamiento y las posibilidades que ofrece.
+
+Documentación de referencia sobre el funcionamiento de la API de OpenAI:
+
+* OpenAI Responses API: https://platform.openai.com/docs/guides/responses-vs-chat-completions
+
 
 ## Versionado
 
