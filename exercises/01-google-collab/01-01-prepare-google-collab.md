@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Preparar el entorno de Google Collab para poder ejecutar los ejercicios de este módulo
+Preparar el entorno de Google Collab para poder ejecutar los ejercicios de este curso
 
 El ejercicio va a estar pensado para trabajar con la API de OpenAI y/o Anthropic, por lo que se podrá trabajar sobre una de ellas o bien sobre las dos
 

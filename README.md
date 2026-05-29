@@ -19,7 +19,6 @@ Poder entender los costos asociados a la IA y cómo optimizarlos.
   - [Versionado](#versionado)
   - [Autores](#autores)
 
-
 ## Pre-Requisitos
 
 En general se necesitarán estos elementos
