@@ -57,7 +57,6 @@ Pasos a seguir:
 https://colab.research.google.com/github/vjmadrid/workspace-cost-engineering/blob/main/exercises/03-openai/03_01_basic_openai_v1_0.ipynb
 ```
 
-* Acceder a la URL modificada
 * Verificar que se ha cargado correctamente
 * Verificar que el notebook se ha cargado correctamente y que se pueden ejecutar las celdas sin errores
 

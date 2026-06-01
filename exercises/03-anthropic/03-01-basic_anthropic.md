@@ -54,10 +54,9 @@ Pasos a seguir:
 * Acceder a la URL del fichero ".ipynb" en el repositorio de GitHub
 
 ```
-https://github.com/vjmadrid/workspace-cost-engineering/blob/main/exercises/03-anthropic/03_01_basic_anthropic_v1_0.ipynb
+tps://colab.research.google.com/github/vjmadrid/workspace-cost-engineering/blob/main/exercises/03-anthropic/03_01_basic_anthropic_v1_0.ipynb
 ```
 
-* Acceder a la URL modificada
 * Verificar que se ha cargado correctamente
 * Verificar que el notebook se ha cargado correctamente y que se pueden ejecutar las celdas sin errores
 
