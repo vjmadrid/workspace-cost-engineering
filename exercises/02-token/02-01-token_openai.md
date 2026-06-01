@@ -17,8 +17,7 @@ El ejercicio esta pensado para ayudar a entender el concepto de token y cómo se
     - [Paso 1: Cargar el notebook en Google Collab desde fichero o bien desde la URL del repositorio](#paso-1-cargar-el-notebook-en-google-collab-desde-fichero-o-bien-desde-la-url-del-repositorio)
       - [Desde el fichero](#desde-el-fichero)
       - [Desde la URL del repositorio](#desde-la-url-del-repositorio)
-    - [Paso 2: Verificar que se ha cargado la API Key de Anthropic en el entorno de Google Collab](#paso-2-verificar-que-se-ha-cargado-la-api-key-de-anthropic-en-el-entorno-de-google-collab)
-    - [Paso 3: Seguir la explicación del ejercicio en las secciones del notebook](#paso-3-seguir-la-explicación-del-ejercicio-en-las-secciones-del-notebook)
+    - [Paso 2: Seguir la explicación del ejercicio en las secciones del notebook](#paso-2-seguir-la-explicación-del-ejercicio-en-las-secciones-del-notebook)
   - [Versionado](#versionado)
   - [Autores](#autores)
 
@@ -60,11 +59,7 @@ https://colab.research.google.com/github/vjmadrid/workspace-cost-engineering/blo
 * Verificar que se ha cargado correctamente
 * Verificar que el notebook se ha cargado correctamente y que se pueden ejecutar las celdas sin errores
 
-### Paso 2: Verificar que se ha cargado la API Key de Anthropic en el entorno de Google Collab
-
-Seguir los pasos indicados en la documentación facilitada en 'exercises/01-google-collab/01-01-prepare-google-collab.md'
-
-### Paso 3: Seguir la explicación del ejercicio en las secciones del notebook
+### Paso 2: Seguir la explicación del ejercicio en las secciones del notebook
 
 Se irán alternando secciones de teoría en celdas de texto con celdas de código para ejecutar y probar lo explicado en cada sección. Se recomienda seguir el orden de las celdas para no perder el hilo de la explicación y para entender mejor el ejercicio.
 
