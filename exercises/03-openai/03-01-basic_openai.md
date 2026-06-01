@@ -52,8 +52,6 @@ Pasos a seguir:
 Pasos a seguir:
 
 * Acceder a la URL del fichero ".ipynb" en el repositorio de GitHub
-  * https://github.com/vjmadrid/workspace-cost-engineering/blob/main/exercises/03-openai/03_01_basic_openai_v1_0.ipynb
-* Reemplazar "github.com" por "colab.research.google.com/github"
 
 ```
 https://colab.research.google.com/github/vjmadrid/workspace-cost-engineering/blob/main/exercises/03-openai/03_01_basic_openai_v1_0.ipynb
