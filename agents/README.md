@@ -21,6 +21,7 @@ Este documento recoge los agentes disponibles en `.github/agents`
 | Agente | Uso breve | Fichero |
 | --- | --- | --- |
 | Automation First Advisor | Prioriza reglas, scripts, SQL, workflows e integraciones antes que IA. | `automation-first-advisor.md` |
+| Agent Complexity Reviewer | Detecta sobreingeniería agentic y recomienda el nivel mínimo necesario. | `agent-complexity-reviewer.md` |
 
 ## Estructura estándar de un agente
 
