@@ -18,6 +18,7 @@ Poder entender los costos asociados a la IA y cómo optimizarlos.
     - [Documentación de referencia / apoyo](#documentación-de-referencia--apoyo)
     - [Ejercicios](#ejercicios)
     - [Simuladores](#simuladores)
+    - [Extensiones](#extensiones)
   - [Versionado](#versionado)
   - [Autores](#autores)
 
@@ -28,6 +29,7 @@ En general se necesitarán estos elementos
 * Cuenta activa en OpenAI Platform, con créditos y con un API Key generada
 * Cuenta activa en Anthropic Console, con créditos y con un API Key generada
 * Cuenta de Google Personal o Corporativa
+* Algún asistente de código con IA como GitHub Copilot, Claude Code, CodeWhisperer, etc.
 
 Pero será cada módulo de ejercicios lo que establezca que es necesario
 
@@ -58,6 +60,10 @@ Se pueden acceder desde el directorio `exercises` o bien desde el índice de cad
 ### Simuladores
 
 Se facilitarán algunos simuladores para ayudar a entender mejor los conceptos y a practicar con ellos. Estos simuladores estarán disponibles en el directorio `simulators` o bien desde el índice de cada módulo.
+
+### Extensiones
+
+Se facilitarán algunas extensiones para los asistentes de código o bien para el IDE con el que se trabaja con el objetivo de poder proporcionar una mejor experiencia a la hora de abordar los ejercicios o bien para facilitar la comprensión de los conceptos. Estas extensiones estarán disponibles en el directorio `extensions` o bien desde el índice de cada módulo.
 
 ## Versionado
 
