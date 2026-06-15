@@ -11,6 +11,7 @@ Este documento recoge los agentes disponibles en `.github/agents`
 | Token Cost Guardian | Detecta riesgo de consumo excesivo de tokens antes de ejecutar tareas con IA. | `token-cost-guardian.md` |
 | AI Cost Optimizer | Compara alternativas y evita usar IA generativa cuando una solución más simple basta. | `ai-cost-optimizer.md` |
 | Model Selector Advisor | Recomienda el modelo mínimo suficiente según calidad, coste y riesgo. | `model-selector-advisor.md` |
+| Prompt Optimizer | Reescribe prompts para reducir tokens, ambigüedad y salidas innecesarias. | `prompt-optimizer.md` |
 
 ## Estructura estándar de un agente
 
@@ -43,3 +44,4 @@ Usa estos agentes como una capa de revisión previa antes de ejecutar tareas con
 - Usa `token-cost-guardian.md` antes de tareas grandes o ambiguas
 - Usa `ai-cost-optimizer.md` para comparar alternativas y evitar el uso innecesario de IA generativa
 - Usa `model-selector-advisor.md` para seleccionar el modelo mínimo suficiente según calidad, coste y riesgo
+- Usa `prompt-optimizer.md` para reescribir prompts y reducir tokens, ambigüedad y salidas innecesarias
