@@ -56,11 +56,6 @@ Te paso varios documentos y quiero que me hagas un informe completo con todo lo 
 
 # ***Nivel 4 - Production-ready***
 Genera una API en Python con FastAPI que reciba datos, los procese y devuelva resultados. Quiero que el código esté bien estructurado, documentado y explicado
-
-# AYUDA EXTRA
-
-
-
 ```
 
 ## Versionado

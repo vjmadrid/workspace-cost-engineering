@@ -12,6 +12,7 @@ Este documento recoge los agentes disponibles en `.github/agents`
 | AI Cost Optimizer | Compara alternativas y evita usar IA generativa cuando una solución más simple basta. | `ai-cost-optimizer.md` |
 | Model Selector Advisor | Recomienda el modelo mínimo suficiente según calidad, coste y riesgo. | `model-selector-advisor.md` |
 | Prompt Optimizer | Reescribe prompts para reducir tokens, ambigüedad y salidas innecesarias. | `prompt-optimizer.md` |
+| Context Minimizer | Reduce contexto enviado al modelo preservando información necesaria. | `context-minimizer.md` |
 
 ## Estructura estándar de un agente
 
@@ -45,3 +46,4 @@ Usa estos agentes como una capa de revisión previa antes de ejecutar tareas con
 - Usa `ai-cost-optimizer.md` para comparar alternativas y evitar el uso innecesario de IA generativa
 - Usa `model-selector-advisor.md` para seleccionar el modelo mínimo suficiente según calidad, coste y riesgo
 - Usa `prompt-optimizer.md` para reescribir prompts y reducir tokens, ambigüedad y salidas innecesarias
+- Usa `context-minimizer.md` para reducir el contexto enviado al modelo preservando información necesaria
