@@ -32,18 +32,24 @@ Tiempo estimado en complentarse: 5-15 minutos
 
 Verficar que el agente se encuentra cargado y activo en alguno de los ambientes de trabajo mostrado (github copilot, chat IA conversacional o modo agente IA conversacional)
 
-### Paso 2: Probar diferentes ejemplos de prompts de usuario 
+### Paso 2: Probar diferentes ejemplos de prompts de usuario
 
-Algunos ejemplos adicionales de comandos que se pueden ejecutar en modo programático:
+Algunos ejemplos de uso pueden ser los siguientes:
+
+Nota: Recordar que se le puede "apretar" con el prompt o bien cambiar un poco el formato de respuesta
 
 ```bash
 # ***Nivel Básico***
+Quiero generar un resumen de este texto de 3 párrafos
+
 Quiero generar un resumen de este texto de 3 párrafos. ¿Hay algún riesgo de consumo de tokens antes de ejecutar?
+
+Voy a pedirle a un modelo que genere una lista de 10 ideas de negocio
 
 Voy a pedirle a un modelo que genere una lista de 10 ideas de negocio. ¿Es necesario optimizar algo o puedo ejecutarlo directamente?
 
 # ***Nivel Medio***
-Necesito analizar este documento de 20 páginas y generar un resumen ejecutivo.
+Necesito analizar este documento de 20 páginas y generar un resumen ejecutivo
 
 Necesito analizar este documento de 20 páginas y generar un resumen ejecutivo. Antes de hacerlo, evalúa si hay riesgo de consumo de tokens y cómo puedo optimizar la solicitud.
 
