@@ -55,7 +55,7 @@ Tengo que mover datos entre varios sistemas (CRM, ERP y Excel) con validaciones.
 
 Necesito generar reportes diarios a partir de datos estructurados. ¿Es mejor usar SQL + job programado o IA?
 
-# ***Nivel 3 - Modelo pequeñio o IA Controlada***
+# ***Nivel 3 - Modelo pequeño o IA Controlada***
 Quiero clasificar tickets de soporte por temática (facturación, técnico, incidencias). ¿Qué solución mínima viable recomiendas?
 
 Necesito extraer información clave (nombre, empresa, importe) de PDFs semi-estructurados. ¿Uso regex, parser o IA?
