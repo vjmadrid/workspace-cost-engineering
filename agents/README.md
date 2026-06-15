@@ -22,6 +22,7 @@ Este documento recoge los agentes disponibles en `.github/agents`
 | --- | --- | --- |
 | Automation First Advisor | Prioriza reglas, scripts, SQL, workflows e integraciones antes que IA. | `automation-first-advisor.md` |
 | Agent Complexity Reviewer | Detecta sobreingeniería agentic y recomienda el nivel mínimo necesario. | `agent-complexity-reviewer.md` |
+| RAG vs Prompt Advisor | Decide entre prompt directo, búsqueda, RAG, SQL/API o solución híbrida. | `rag-vs-prompt-advisor.md` |
 
 ## Estructura estándar de un agente
 
