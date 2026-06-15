@@ -9,6 +9,7 @@ Este documento recoge los agentes disponibles en `.github/agents`
 | Agente | Uso breve | Fichero |
 | --- | --- | --- |
 | Token Cost Guardian | Detecta riesgo de consumo excesivo de tokens antes de ejecutar tareas con IA. | `token-cost-guardian.md` |
+| AI Cost Optimizer | Compara alternativas y evita usar IA generativa cuando una solución más simple basta. | `ai-cost-optimizer.md` |
 
 ## Estructura estándar de un agente
 
@@ -39,4 +40,4 @@ La cabecera técnica de este tipo de agentes esta pensada para ser interpretada 
 Usa estos agentes como una capa de revisión previa antes de ejecutar tareas con IA, aprobar arquitecturas, desplegar features con LLMs o escalar soluciones agentic.
 
 - Usa `token-cost-guardian.md` antes de tareas grandes o ambiguas
-
+- Usa `ai-cost-optimizer.md` para comparar alternativas y evitar el uso innecesario de IA generativa
