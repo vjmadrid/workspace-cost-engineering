@@ -6,6 +6,8 @@ Este documento recoge los agentes disponibles en `.github/agents`
 
 ## Agentes incluidos
 
+### Básicos
+
 | Agente | Uso breve | Fichero |
 | --- | --- | --- |
 | Token Cost Guardian | Detecta riesgo de consumo excesivo de tokens antes de ejecutar tareas con IA. | `token-cost-guardian.md` |
@@ -13,6 +15,12 @@ Este documento recoge los agentes disponibles en `.github/agents`
 | Model Selector Advisor | Recomienda el modelo mínimo suficiente según calidad, coste y riesgo. | `model-selector-advisor.md` |
 | Prompt Optimizer | Reescribe prompts para reducir tokens, ambigüedad y salidas innecesarias. | `prompt-optimizer.md` |
 | Context Minimizer | Reduce contexto enviado al modelo preservando información necesaria. | `context-minimizer.md` |
+
+### Soporte
+
+| Agente | Uso breve | Fichero |
+| --- | --- | --- |
+| Automation First Advisor | Prioriza reglas, scripts, SQL, workflows e integraciones antes que IA. | `automation-first-advisor.md` |
 
 ## Estructura estándar de un agente
 
@@ -38,7 +46,7 @@ Estos agentes se han diseñado para ser usados como copilotos desde Visual Studi
 
 La cabecera técnica de este tipo de agentes esta pensada para ser interpretada por GitHub Copilot, por lo que cualquier otra IA no lo interpretará con esa funcionalidad, lo interpretará como más texto que formará parte del contexto.
 
-## Workflow recomendado
+## Workflow básico recomendado
 
 Usa estos agentes como una capa de revisión previa antes de ejecutar tareas con IA, aprobar arquitecturas, desplegar features con LLMs o escalar soluciones agentic.
 
