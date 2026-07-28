@@ -10,19 +10,19 @@ Este documento recoge los agentes disponibles en `.github/agents`
 
 | Agente | Uso breve | Fichero |
 | --- | --- | --- |
-| Token Cost Guardian | Detecta riesgo de consumo excesivo de tokens antes de ejecutar tareas con IA. | `token-cost-guardian.md` |
-| AI Cost Optimizer | Compara alternativas y evita usar IA generativa cuando una solución más simple basta. | `ai-cost-optimizer.md` |
-| Model Selector Advisor | Recomienda el modelo mínimo suficiente según calidad, coste y riesgo. | `model-selector-advisor.md` |
-| Prompt Optimizer | Reescribe prompts para reducir tokens, ambigüedad y salidas innecesarias. | `prompt-optimizer.md` |
-| Context Minimizer | Reduce contexto enviado al modelo preservando información necesaria. | `context-minimizer.md` |
+| Token Cost Guardian | Detecta riesgo de consumo excesivo de tokens antes de ejecutar tareas con IA | `token-cost-guardian.md` |
+| AI Cost Optimizer | Compara alternativas y evita usar IA generativa cuando una solución más simple basta | `ai-cost-optimizer.md` |
+| Model Selector Advisor | Recomienda el modelo mínimo suficiente según calidad, coste y riesgo | `model-selector-advisor.md` |
+| Prompt Optimizer | Reescribe prompts para reducir tokens, ambigüedad y salidas innecesarias | `prompt-optimizer.md` |
+| Context Minimizer | Reduce contexto enviado al modelo preservando información necesaria | `context-minimizer.md` |
 
 ### Soporte
 
 | Agente | Uso breve | Fichero |
 | --- | --- | --- |
-| Automation First Advisor | Prioriza reglas, scripts, SQL, workflows e integraciones antes que IA. | `automation-first-advisor.md` |
-| Agent Complexity Reviewer | Detecta sobreingeniería agentic y recomienda el nivel mínimo necesario. | `agent-complexity-reviewer.md` |
-| RAG vs Prompt Advisor | Decide entre prompt directo, búsqueda, RAG, SQL/API o solución híbrida. | `rag-vs-prompt-advisor.md` |
+| Automation First Advisor | Prioriza reglas, scripts, SQL, workflows e integraciones antes que IA | `automation-first-advisor.md` |
+| Agent Complexity Reviewer | Detecta sobreingeniería agentic y recomienda el nivel mínimo necesario | `agent-complexity-reviewer.md` |
+| RAG vs Prompt Advisor | Decide entre prompt directo, búsqueda, RAG, SQL/API o solución híbrida | `rag-vs-prompt-advisor.md` |
 
 ## Estructura estándar de un agente
 
